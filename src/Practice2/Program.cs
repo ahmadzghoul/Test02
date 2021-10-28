@@ -43,7 +43,6 @@ namespace Practice2
 
 
             Console.WriteLine("Practice git changes");
-            // More get hub editions for practice
 
 
 
