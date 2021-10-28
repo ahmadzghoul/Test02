@@ -42,6 +42,8 @@ namespace Practice2
             ///////////////////////////////////////////////////
 
 
+            Console.WriteLine("Practice git changes");
+
 
 
 
