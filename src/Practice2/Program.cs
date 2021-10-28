@@ -39,7 +39,7 @@ namespace Practice2
             int b = int.Parse(Console.ReadLine());
             int c= int.Parse(Console.ReadLine());
             int d= int.Parse(Console.ReadLine());
-           
+           // more practice on git hub editions after reverting
 
 
 
